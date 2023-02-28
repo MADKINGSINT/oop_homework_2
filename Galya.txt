@@ -1,6 +1,13 @@
-Имя: Galya
-Дата рождения13.12.1500
-Пол: Female
-Родство:бабушка
-Дети: [Oleg, Valera]
-Родители: []
+[{
+Name: Galya
+}{
+Day of birth13.12.1500
+}{
+Gender: Female
+}{
+Relationбабушка
+}{
+Children[Oleg, Valera]
+}{
+Parents []
+}]
